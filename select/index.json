@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "関白宣言",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-16T16:28:27.230463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "関白宣言",
+      "artist": "Masashi Sada",
+      "has_synced": true,
+      "path": "select/01_関白宣言_Masashi_Sada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "関白宣言",
+      "artist": "Masashi Sada",
+      "has_synced": true,
+      "path": "select/02_関白宣言_Masashi_Sada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "関白宣言",
+      "artist": "さだまさし",
+      "has_synced": true,
+      "path": "select/03_関白宣言_さだまさし.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "関白宣言 - Kanpaku Sengen",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/04_関白宣言_-_Kanpaku_Sengen_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "関白宣言",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/05_関白宣言_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "関白宣言",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_関白宣言_My_Hair_is_Bad.txt"
+    }
+  ]
+}
